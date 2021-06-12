@@ -12,8 +12,8 @@
 - 👨🏽‍💻 I’m currently a CSE Undergrad student at GTBIT, GGSIPU
 - 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
 - 🤔 My interest lies in front end web development.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [jsmokha33@gmail.com](mailto:jsmokha33@gmail.com).
+- 💬 Need any help with development feel free to add my Discord - vast#9999
+- 📫 Email me at [vastingdev@gmail.com](mailto:vastingdev@gmail.com).
 
 
 
