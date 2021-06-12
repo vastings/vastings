@@ -32,7 +32,7 @@ Python, Lua, C# Developer 📜
 <code><img height="20" src="https://www.saashub.com/images/app/service_logos/19/1e0d827a9c4c/large.png?1541972415"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"></code>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vastings&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=vastings&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Vasting's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vastings&count_private=true&theme=radical" alt="vastings" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vastings&count_private=true&theme=radical" alt="vastings" />
 
