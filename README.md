@@ -1,7 +1,6 @@
 <h3 title="hehehe"> Hey 👋, I'm Vast, also known as Vastings!</h3>
+<br />
 
-<br />
-<br />
 
 A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
  
