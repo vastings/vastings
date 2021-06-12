@@ -3,7 +3,7 @@
 Python, Lua, C# Developer 📜
  
 
-  <img align="right" alt="GIF" src="https://cdn.discordapp.com/avatars/315412038455132160/a_859c262b19ed19c002ea6e3b8e8f5f23.gif?size=1024" />
+  <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/852644922418397217/853392394321657876/vast.gif" />
 
 **About Me!**
 
