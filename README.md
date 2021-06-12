@@ -3,7 +3,7 @@
 Python Developer 📜
  
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="GIF" src="https://cdn.discordapp.com/avatars/315412038455132160/a_859c262b19ed19c002ea6e3b8e8f5f23.gif?size=1024" />
 
 **About Me!**
 
